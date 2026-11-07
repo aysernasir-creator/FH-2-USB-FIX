@@ -1,0 +1,355 @@
+Id,MediaName,Year,CarName,ABS,TC,STM,Clutch,Gearbox,SteeringLockDeg,Notes
+247,TOY_2000GT_69,1969,1969 Toyota 2000GT,no,no,no,yes,manual,864,Verified by hand
+249,FER_250GTO_64,1962,1962 Ferrari 250 GTO,no,no,no,yes,manual,990,Verified by hand
+251,MER_300SL_54,1954,1954 Mercedes-Benz 300 SL,no,no,no,yes,manual,720,Verified by hand
+252,FER_330P4_67,1967,1967 Ferrari 330 P4,no,no,no,yes,manual,630,Verified by hand
+253,FER_355Berlinetta_94,1994,1994 Ferrari 355 Berlinetta,yes,no,no,yes,manual,1152,Verified by hand
+257,FER_575_02,2002,2002 Ferrari 575M Maranello,yes,yes,yes,optional,mixed,792,Verified by hand
+265,POR_911Turbo_82,1982,1982 Porsche 911 Turbo,no,no,no,yes,manual,1073,Verified by hand
+266,POR_914_70,1970,1970 Porsche 914,no,no,no,yes,manual,900,Verified by hand
+268,POR_944Turbo_89,1989,1989 Porsche 944 Turbo,yes,no,no,yes,manual,1166,Verified by hand
+269,POR_959_87,1987,1987 Porsche 959,yes,yes,no,yes,manual,900,Verified by hand
+283,VW_BoraVR6_03,2003,2003 Volkswagen Bora VR6,yes,yes,yes,optional,mixed,900,Verified by hand
+286,MER_C32AMG_04,2004,2004 Mercedes-Benz C32 AMG,yes,yes,yes,no,atm,900,Verified by hand
+289,CHE_CamaroSS_69,1969,1969 Chevrolet Camaro SS,no,no,no,yes,manual,900,Verified by hand
+291,LOT_Carlton_89,1990,1990 Lotus Carlton,yes,no,no,yes,manual,900,Verified by hand
+292,POR_CarreraGT_03,2003,2003 Porsche Carrera GT,yes,yes,yes,yes,manual,720,Verified by hand
+297,FER_360Challenge_03,2003,2003 Ferrari 360 Challenge,yes,yes,no,no,amt,972,Verified by hand
+299,CHE_Chevelle_70,1970,1970 Chevrolet Chevelle SS,no,no,no,optional,mixed,900,Verified by hand
+302,HON_CivicR_04,2004,2004 Honda Civic Type R,yes,no,no,yes,manual,900,Verified by hand
+306,SHE_Cobra427_65,1965,1965 Shelby Cobra 427,no,no,no,yes,manual,1080,Verified by hand
+309,VW_Corrado_95,1995,1995 Volkswagen Corrado,yes,yes,no,optional,mixed,900,Verified by hand
+312,CHE_CorvetteStingray_67,1967,1967 Chevrolet Corvette Stingray,no,no,no,optional,mixed,900,Verified by hand
+315,CHE_CorvetteZR1_70,1970,1970 Chevrolet Corvette ZR1,no,no,no,yes,manual,900,Verified by hand
+316,LAM_Countach_88,1988,1988 Lamborghini Countach,no,no,no,yes,manual,1152,Verified by hand
+320,HON_CRXsi_91,1991,1991 Honda CRX Si,optional,optional,no,yes,manual,900,Verified by hand
+323,LAN_Delta_92,1992,1992 Lancia Delta HF Integrale,yes,no,no,yes,manual,900,Verified by hand
+325,LAM_DiabloSV_97,1997,1997 Lamborghini Diablo SV,no,optional,no,yes,manual,1152,Verified by hand
+326,FER_Dino246_69,1969,1969 Ferrari Dino 246 GT,no,no,no,yes,manual,1152,Verified by hand
+333,FER_Enzo_02,2002,2002 Ferrari Enzo,yes,yes,yes,no,amt,792,Verified by hand
+335,LOT_Esprit_02,2002,2002 Lotus Esprit V8,yes,no,no,yes,manual,1152,Verified by hand
+336,JAG_Etype_61,1961,1961 Jaguar E-Type,no,no,no,yes,manual,900,Verified by hand
+338,MCL_F1GT_97,1997,1997 McLaren F1 GT,no,no,no,yes,manual,720,Verified by hand
+340,FER_F40_87,1987,1987 Ferrari F40,no,no,no,yes,manual,1044,Verified by hand
+342,FER_F50_95,1995,1995 Ferrari F50,no,no,no,yes,manual,1188,Verified by hand
+343,NIS_Fairlady432Z_69,1969,1969 Nissan Fairlady Z 432,no,no,no,yes,manual,900,Verified by hand
+345,NIS_FairladyZvSTwinTurbo_94,1994,1994 Nissan Fairlady Z Version S Twin Turbo,yes,yes,no,optional,mixed,900,Verified by hand
+348,FOR_GT_05,2005,2005 Ford GT,yes,no,no,yes,manual,972,Verified by hand
+353,VW_GolfGTi16vMk2_92,1992,1992 Volkswagen Golf GTI 16v,optional,yes,no,yes,manual,900,Verified by hand
+354,VW_GolfR32_03,2003,2003 Volkswagen Golf R32,yes,yes,yes,optional,mixed,900,Verified by hand
+355,FOR_GT40_66,1966,1966 Ford GT40,no,no,no,yes,manual,900,Verified by hand
+358,FER_GTO_84,1984,1984 Ferrari 288 GTO,no,no,no,yes,manual,1040,Verified by hand
+363,SUB_Impreza22b_98,1998,1998 Subaru Impreza 22B STi,yes,no,no,yes,manual,810,Verified by hand
+365,SUB_WRXSTi_05,2005,2005 Subaru Impreza WRX STi,yes,yes,no,yes,manual,900,Verified by hand
+368,ACU_IntegraR_01,2001,2001 Acura Integra Type R,yes,no,no,yes,manual,900,Verified by hand
+375,MIT_LancerEvoVIGSR_99,1999,1999 Mitsubishi Lancer Evolution VI GSR,yes,yes,no,yes,manual,936,Verified by hand
+378,MIT_LancerEvoVIIIMR_04,2004,2004 Mitsubishi Lancer Evolution VIII MR,yes,yes,optional,yes,manual,756,Verified by hand
+379,SUB_LegacyB4GT_05,2005,2005 Subaru Legacy B4 GT,yes,no,no,optional,mixed,900,Verified by hand
+382,BMW_E36M3_97,1997,1997 BMW M3 (E36),yes,yes,no,optional,mixed,1170,Verified by hand
+391,MAS_MC12_04,2004,2004 Maserati MC12,yes,yes,yes,no,amt,1008,Verified by hand
+398,TOY_MR2GT_95,1995,1995 Toyota MR2 GT,optional,optional,no,yes,manual,900,Verified by hand
+405,FOR_MustangCobraR_00,2000,2000 Ford Mustang SVT Cobra R,yes,yes,no,yes,manual,900,Verified by hand
+412,HON_NSXR_92,1992,1992 Honda NSX-R,yes,no,no,yes,manual,1166,Verified by hand
+414,PG_BUS_14,2004,2004 Bus (fictional),optional,optional,no,no,at,900,Verified by hand
+417,BUI_RegalGNX_87,1987,1987 Buick Regal GNX,no,no,no,no,at,900,Verified by hand
+419,AUD_RS4_06,2006,2006 Audi RS4,yes,yes,yes,yes,manual,900,Verified by hand
+422,ACU_RSXTypeS_02,2002,2002 Acura RSX Type-S,yes,no,no,yes,manual,900,Verified by hand
+424,MAZ_RX7_97,1997,1997 Mazda RX-7,yes,no,no,optional,mixed,1044,Verified by hand
+428,AUD_S4_04,2004,2004 Audi S4,yes,yes,yes,optional,mixed,900,Verified by hand
+433,TVR_Sagaris_05,2005,2005 TVR Sagaris,no,no,no,yes,manual,720,Verified by hand
+439,NIS_SilviaK_92,1992,1992 Nissan Silvia K's,optional,optional,no,optional,mixed,900,Verified by hand
+441,NIS_SilviaSpecR_00,2000,2000 Nissan Silvia Spec-R,yes,yes,no,yes,manual,900,Verified by hand
+444,NIS_SkylineGTR_93,1993,1993 Nissan Skyline GT-R,yes,no,no,yes,manual,900,Verified by hand
+445,NIS_SkylineGTRVSpecII_02,2002,2002 Nissan Skyline GT-R V-Spec II,yes,yes,no,yes,manual,900,Verified by hand
+447,MER_SLR_05,2005,2005 Mercedes-Benz SLR McLaren,yes,yes,yes,no,atm,720,Verified by hand
+453,REN_Clio_03,2003,2003 Renault Clio,yes,optional,optional,yes,manual,900,Verified by hand
+455,TOY_Sprinter_85,1985,1985 Toyota Sprinter Trueno,no,no,no,yes,manual,900,Verified by hand
+458,LAN_Stratos_74,1974,1974 Lancia Stratos,no,no,no,yes,manual,900,Verified by hand
+461,TOY_SupraRZ_98,1998,1998 Toyota Supra RZ,yes,yes,no,yes,manual,1080,Verified by hand
+483,DOD_ViperGTSACR_99,1999,1999 Dodge Viper GTS ACR,no,no,no,yes,manual,720,Verified by hand
+489,JAG_XJ220_93,1993,1993 Jaguar XJ220,no,no,no,yes,manual,720,Verified by hand
+513,DOD_ChargerRT_69,1969,1969 Dodge Charger R/T,no,no,no,optional,mixed,900,Verified by hand
+631,FOR_Transit_11,2006,2006 Ford Transit,yes,optional,optional,optional,mixed,1170,Verified by hand
+633,AUD_SportQuattro_83,1983,1983 Audi Sport Quattro,yes,no,no,yes,manual,900,Verified by hand
+634,REN_5Turbo_80,1980,1980 Renault 5 Turbo,no,no,no,yes,manual,900,Verified by hand
+637,LAM_MiuraP400_67,1967,1967 Lamborghini Miura P400,no,no,no,yes,manual,720,Verified by hand
+639,DOD_ChallengerHemi_70,1970,1970 Dodge Challenger R/T Hemi,no,no,no,optional,mixed,900,Verified by hand
+642,BMW_M3E30_91,1991,1991 BMW M3 (E30),yes,no,no,yes,manual,1260,Verified by hand
+1005,PON_TransAm_73,1973,1973 Pontiac Firebird Trans Am,no,no,no,optional,mixed,900,Verified by hand
+1009,MIT_LancerEvoXGSR_08,2008,2008 Mitsubishi Lancer Evolution X GSR,yes,yes,yes,yes,manual,817,Verified by hand
+1011,BMW_M3E92_08,2008,2008 BMW M3 (E92),yes,yes,yes,optional,mixed,864,Verified by hand
+1022,FER_F430Scuderia_07,2007,2007 Ferrari F430 Scuderia,yes,yes,yes,no,amt,720,Verified by hand
+1032,ALF_8C_08,2007,2007 Alfa Romeo 8C Competizione,yes,yes,yes,no,amt,900,Verified by hand
+1033,CHE_CamaroIROCZ_90,1990,1990 Chevrolet Camaro IROC-Z,no,no,no,optional,mixed,900,Verified by hand
+1034,TOY_CelicaST205_94,1994,1994 Toyota Celica GT-Four (ST205),optional,optional,no,yes,manual,900,Verified by hand
+1040,BMW_M1_81,1981,1981 BMW M1,no,no,no,yes,manual,846,Verified by hand
+1041,FOR_MustangSVTCobraR_93,1993,1993 Ford Mustang SVT Cobra R,no,no,no,yes,manual,900,Verified by hand
+1042,NIS_Skyline2000GTR_71,1971,1971 Nissan Skyline 2000GT-R,no,no,no,yes,manual,900,Verified by hand
+1045,PON_TransAmGTA_87,1987,1987 Pontiac Firebird Trans Am GTA,no,no,no,optional,mixed,900,Verified by hand
+1047,TOY_YarisS_08,2008,2008 Toyota Yaris S,optional,yes,optional,optional,mixed,900,Verified by hand
+1060,SUB_WRXSTi_08,2008,2008 Subaru Impreza WRX STi,yes,yes,yes,yes,manual,936,Verified by hand
+1062,FER_California_09,2008,2009 Ferrari California,yes,yes,yes,no,dct,720,Verified by hand
+1063,DOD_ChargerDaytona_69,1969,1969 Dodge Charger Daytona,no,no,no,optional,mixed,900,Verified by hand
+1064,CHE_CamaroZ28_79,1979,1979 Chevrolet Camaro Z28,no,no,no,optional,mixed,900,Verified by hand
+1066,FOR_MustangKingCobra_78,1978,1978 Ford Mustang II King Cobra,no,no,no,optional,mixed,900,Verified by hand
+1069,CHE_CorvetteZR1_09,2009,2009 Chevrolet Corvette ZR1,yes,yes,yes,yes,manual,900,Verified by hand
+1082,FOR_Fiesta_09,2009,2009 Ford Fiesta,yes,yes,optional,optional,mixed,900,Verified by hand
+1086,FOR_FocusRS_09,2009,2009 Ford Focus RS,yes,yes,yes,yes,manual,900,Verified by hand
+1089,MER_A200Turbo_09,2009,2009 Mercedes-Benz A200 Turbo,yes,yes,yes,optional,mixed,900,Verified by hand
+1090,MER_SL65AMG_09,2009,2009 Mercedes-Benz SL65 AMG,yes,yes,yes,no,atm,900,Verified by hand
+1093,CHE_Corvette_60,1960,1960 Chevrolet Corvette,no,no,no,optional,mixed,900,Verified by hand
+1101,VAU_CorsaVXR_09,2009,2009 Vauxhall Corsa VXR,yes,yes,yes,yes,manual,900,Verified by hand
+1103,NIS_370Z_10,2010,2010 Nissan 370Z,yes,yes,yes,optional,mixed,1080,VDC standard; VDC; ABS verified; clutch optional (source); steering 3.0 turns per cars.com (rounded figure)
+1104,NIS_510_70,1970,1970 Datsun 510,no,no,no,optional,mixed,900,Verified by hand
+1105,AST_DB5Vantage_64,1964,1964 Aston Martin DB5 Vantage,no,no,no,yes,manual,900,Verified by hand
+1107,VW_RabbitGTI_84,1984,1984 Volkswagen Rabbit GTI,no,no,no,yes,manual,900,Verified by hand
+1108,FOR_RS200Evolution_87,1985,1987 Ford RS200 Evolution,no,no,no,yes,manual,648,Verified by hand
+1110,MAZ_Miata_94,1994,1994 Mazda MX-5 Miata,optional,no,no,optional,mixed,900,Verified by hand
+1115,FIA_500AbarthSS_10,2010,2010 Fiat 500 Abarth SS,yes,yes,yes,yes,manual,900,Verified by hand
+1124,FIA_131AbarthStradale_80,1980,1980 Fiat 131 Abarth Stradale,no,no,no,yes,manual,900,Verified by hand
+1127,ALF_BreraTi_09,2009,2009 Alfa Romeo Brera Ti,yes,yes,yes,optional,mixed,900,Verified by hand
+1130,MCL_MP412C_11,2011,2011 McLaren MP4-12C,yes,yes,yes,no,dct,720,Verified by hand
+1131,FER_F142_10,2009,2010 Ferrari 458 Italia,yes,yes,yes,no,dct,720,Verified by hand
+1154,FER_250TestaRossa_57,1957,1957 Ferrari 250 Testa Rossa,no,no,no,yes,manual,990,Verified by hand
+1155,SHE_CobraDaytona_65,1965,1965 Shelby Cobra Daytona Coupe,no,no,no,yes,manual,900,Verified by hand
+1173,LAM_LP6704SV_10,2010,2010 Lamborghini Murcielago LP670-4 SuperVeloce,yes,yes,yes,optional,mixed,1080,Verified by hand
+1181,AST_One77_10,2010,2010 Aston Martin One-77,yes,yes,yes,no,amt,1080,Verified by hand
+1187,LOT_2Eleven_09,2009,2009 Lotus 2-Eleven,no,no,no,yes,manual,972,Verified by hand
+1202,MER_SLSAMG_11,2011,2011 Mercedes-Benz SLS AMG,yes,yes,yes,no,dct,720,Verified by hand
+1204,REN_MeganeRS250_10,2010,2010 Renault Megane RS 250,yes,yes,yes,yes,manual,900,Verified by hand
+1215,NUL_Car_00,2000,Unknown NUL_Car 2000,optional,optional,no,optional,mixed,900,Verified by hand
+1216,AUD_RS3_11,2011,2011 Audi RS3,yes,yes,yes,no,dct,900,Verified by hand
+1218,BMW_Z4_11,2011,2011 BMW Z4 sDrive,yes,yes,yes,optional,mixed,900,Verified by hand
+1219,BUG_EB110SS_92,1992,1992 Bugatti EB110 Super Sport,yes,no,no,yes,manual,720,Verified by hand
+1220,AUD_TTRS_10,2010,2010 Audi TT RS,yes,yes,yes,optional,mixed,900,Verified by hand
+1221,MAZ_Mazdaspeed3_10,2010,2010 Mazdaspeed3,yes,yes,yes,yes,manual,900,Verified by hand
+1231,VW_GolfR_10,2010,2010 Volkswagen Golf R,yes,yes,yes,optional,mixed,900,Verified by hand
+1253,NOB_M600_10,2010,2010 Noble M600,no,yes,no,yes,manual,720,Verified by hand
+1257,FIA_PuntoEvoSport_10,2010,2010 Fiat Punto Evo Sport,yes,yes,yes,optional,mixed,900,Verified by hand
+1260,LEX_LFA_10,2010,2010 Lexus LFA,yes,yes,yes,no,amt,846,Verified by hand
+1267,AMC_JavelinAMX_71,1971,1971 AMC Javelin AMX,no,no,no,optional,mixed,900,Verified by hand
+1269,BMW_2002Turbo_73,1973,1973 BMW 2002 Turbo,no,no,no,yes,manual,900,Verified by hand
+1271,FER_250GT_60,1957,1960 Ferrari 250 GT,no,no,no,yes,manual,1260,Verified by hand
+1272,FOR_EscortRSCosworth_92,1992,1992 Ford Escort RS Cosworth,yes,no,no,yes,manual,900,Verified by hand
+1273,HON_CivicTypeR_97,1997,1997 Honda Civic Type R,yes,no,no,yes,manual,824,Verified by hand
+1276,PON_FirebirdTransAm_77,1977,1977 Pontiac Firebird Trans Am,no,no,no,optional,mixed,900,Verified by hand
+1277,CHR_Cuda426_71,1971,1971 Plymouth Hemi Cuda 426,no,no,no,optional,mixed,900,Verified by hand
+1282,NIS_240SX_94,1993,1994 Nissan 240SX,optional,no,no,optional,mixed,900,Verified by hand
+1293,FOR_RS500_87,1987,1987 Ford Sierra RS500 Cosworth,yes,no,no,yes,manual,929,Verified by hand
+1295,LAN_037Stradale_82,1982,1982 Lancia 037 Stradale,no,no,no,yes,manual,900,Verified by hand
+1296,MER_190E_90,1990,1990 Mercedes-Benz 190E 2.5-16 Evolution,yes,no,no,yes,manual,900,Verified by hand
+1300,CHE_ImpalaSS_64,1964,1964 Chevrolet Impala SS,no,no,no,optional,mixed,900,Verified by hand
+1301,JAG_DType_56,1956,1956 Jaguar D-Type,no,no,no,yes,manual,828,Verified by hand
+1302,FOR_EscortRS1800_77,1977,1977 Ford Escort RS1800,no,no,no,yes,manual,900,Verified by hand
+1304,MAS_GranTurismoS_10,2010,2010 Maserati GranTurismo S,yes,yes,yes,no,atm,900,Verified by hand
+1309,PON_GTOJudge_69,1969,1969 Pontiac GTO Judge,no,no,no,optional,mixed,900,Verified by hand
+1314,MCL_F1_93,1993,1993 McLaren F1,no,no,no,yes,manual,720,Verified by hand
+1322,LAM_GallardoLP570_11,2011,2011 Lamborghini Gallardo LP570-4 Superleggera,yes,yes,yes,optional,mixed,720,Verified by hand
+1323,SUB_WRXSTi_11,2011,2011 Subaru WRX STI,yes,yes,yes,yes,manual,1080,VDC; VDC; clutch yes (source); steering 3.0 turns per cars.com (rounded figure)
+1325,ALF_Giulietta_11,2011,2011 Alfa Romeo Giulietta,yes,yes,yes,optional,mixed,900,Verified by hand
+1328,BUG_VeyronSS_11,2011,2011 Bugatti Veyron Super Sport,yes,yes,yes,no,dct,720,Verified by hand
+1329,BUI_GSX_70,1970,1970 Buick GSX,no,no,no,optional,mixed,900,Verified by hand
+1330,CHE_CamaroZ28_70,1970,1970 Chevrolet Camaro Z28,no,no,no,optional,mixed,900,Verified by hand
+1331,CHR_GTX_71,1971,1971 Plymouth GTX,no,no,no,optional,mixed,900,Verified by hand
+1332,DOD_Dart_68,1968,1968 Dodge Dart,no,no,no,optional,mixed,900,Verified by hand
+1336,OLD_442_69,1968,1969 Oldsmobile 442,no,no,no,optional,mixed,900,Verified by hand
+1345,HUM_H1Alpha_06,2006,2006 Hummer H1 Alpha,yes,yes,no,no,at,900,Verified by hand
+1350,BMW_X5M_11,2011,2011 BMW X5 M,yes,yes,yes,no,atm,900,Verified by hand
+1358,FOR_Ka_11,2011,2011 Ford Ka,yes,optional,optional,yes,manual,900,Verified by hand
+1363,VW_Fox_11,2011,2011 Volkswagen Fox,yes,optional,optional,optional,mixed,900,Verified by hand
+1364,KIA_Ceed_11,2011,2011 Kia Ceed,yes,optional,yes,optional,mixed,900,Verified by hand
+1368,BMW_M5E28_88,1988,1988 BMW M5 (E28),yes,no,no,yes,manual,900,Verified by hand
+1369,PAG_ZondaCinque_09,2009,2009 Pagani Zonda Cinque,yes,yes,no,no,amt,720,Verified by hand
+1370,AUD_RS2_95,1995,1995 Audi RS2 Avant,yes,no,no,yes,manual,900,Verified by hand
+1377,ALF_Spider_86,1986,1986 Alfa Romeo Spider,no,no,no,yes,manual,900,Verified by hand
+1380,VW_SciroccoS_81,1981,1981 Volkswagen Scirocco S,no,no,no,yes,manual,900,Verified by hand
+1381,MIT_GalantVR4_92,1992,1992 Mitsubishi Galant VR-4,yes,no,no,optional,mixed,900,Verified by hand
+1382,SUB_LegacyRS_90,1990,1990 Subaru Legacy RS,yes,no,no,yes,manual,900,Verified by hand
+1383,VW_GTIVR6_98,1998,1998 Volkswagen Golf GTI VR6,yes,yes,no,yes,manual,900,Verified by hand
+1385,BMW_1M_11,2011,2011 BMW 1 Series M Coupe,yes,yes,yes,yes,manual,900,Verified by hand
+1386,AST_DBR1_58,1958,1958 Aston Martin DBR1,no,no,no,yes,manual,900,Verified by hand
+1388,BMW_M5_12,2012,2012 BMW M5 (F10),yes,yes,yes,optional,mixed,900,Verified by hand
+1393,ALF_155_92,1992,1992 Alfa Romeo 155,yes,no,no,yes,manual,900,Verified by hand
+1397,KOE_Agera_11,2011,2011 Koenigsegg Agera,yes,yes,yes,no,dct,972,Verified by hand
+1398,LAM_LP7004_12,2012,2012 Lamborghini Aventador LP700-4,yes,yes,yes,no,amt,720,Verified by hand
+1399,FOR_FocusST_12,2013,2013 Ford Focus ST,yes,yes,yes,yes,manual,1080,ESP standard; ESP; clutch yes (source); steering 3.0 turns per cars.com (rounded figure)
+1417,AUD_RS5_11,2011,2011 Audi RS5,yes,yes,yes,no,dct,900,Verified by hand
+1418,BMW_M5_95,1995,1995 BMW M5 (E34),yes,no,no,yes,manual,900,Verified by hand
+1419,CHE_CamaroZL1_12,2012,2012 Chevrolet Camaro ZL1,yes,yes,yes,optional,mixed,1080,StabiliTrak; ABS/stability std; clutch optional (source); steering 3.0 turns per cars.com (rounded figure)
+1422,DOD_ChargerSRT8_12,2012,2012 Dodge Charger SRT8,yes,yes,yes,no,atm,900,Verified by hand
+1424,HYU_Veloster_12,2013,2013 Hyundai Veloster,yes,yes,yes,optional,mixed,900,Verified by hand
+1426,MAZ_RX8R3_11,2011,2011 Mazda RX-8 R3,yes,yes,yes,yes,manual,900,Verified by hand
+1427,PAG_Huayra_12,2012,2012 Pagani Huayra,yes,yes,yes,no,amt,720,Verified by hand
+1428,VW_SciroccoR_11,2011,2011 Volkswagen Scirocco R,yes,yes,yes,optional,mixed,900,Verified by hand
+1433,RUF_Rt12S_11,2011,2011 RUF Rt 12 S,yes,yes,yes,yes,manual,720,Verified by hand
+1435,VW_Beetle_66,1963,1963 Volkswagen Beetle,no,no,no,yes,manual,900,Verified by hand
+1459,CHE_BelAir_57,1957,1957 Chevrolet Bel Air,no,no,no,optional,mixed,900,Verified by hand
+1460,FOR_SVTRaptor_12,2011,2011 Ford F-150 SVT Raptor,yes,yes,yes,no,atm,1170,Verified by hand
+1462,MAS_300S_57,1957,1957 Maserati 300S,no,no,no,yes,manual,900,Verified by hand
+1477,FOR_TransitSSV_11,2011,2011 Ford Transit SuperSportVan,yes,yes,yes,yes,manual,1170,Verified by hand
+1483,AST_V12Zagato_12,2011,2012 Aston Martin V12 Zagato,yes,yes,yes,yes,manual,936,Verified by hand
+1485,JAG_XK120_54,1954,1954 Jaguar XK120,no,no,no,yes,manual,900,Verified by hand
+1486,LOT_Cortina_66,1966,1966 Lotus Cortina,no,no,no,yes,manual,990,Verified by hand
+1490,VAU_Astra_12,2012,2012 Vauxhall Astra VXR,yes,yes,yes,yes,manual,900,Verified by hand
+1493,BMW_850CSi_96,1995,1995 BMW 850CSi,yes,yes,no,yes,manual,900,Verified by hand
+1494,BOW_NemesisEXR_12,2012,2012 Bowler Nemesis EXR,optional,no,no,yes,manual,1080,Verified by hand
+1496,JAG_XKRS_12,2012,2012 Jaguar XKR-S,yes,yes,yes,no,atm,1008,Verified by hand
+1500,MER_C63AMG_12,2012,2012 Mercedes-Benz C63 AMG,yes,yes,yes,no,amt,900,Verified by hand
+1515,RUF_CTR2_95,1995,1995 RUF CTR2,yes,yes,no,yes,manual,720,Verified by hand
+1516,RUF_Yellowbird_87,1987,1987 RUF CTR Yellowbird,no,no,no,yes,manual,720,Verified by hand
+1522,JEE_Wrangler_12,2012,2012 Jeep Wrangler,yes,yes,yes,optional,mixed,1080,Verified by hand
+1523,LOT_ExigeS_12,2012,2012 Lotus Exige S,yes,yes,yes,yes,manual,1008,Verified by hand
+1524,MAS_Tipo61_60,1961,1961 Maserati Tipo 61,no,no,no,yes,manual,900,Verified by hand
+1525,MER_SLK55AMG_12,2012,2012 Mercedes-Benz SLK55 AMG,yes,yes,yes,no,atm,900,Verified by hand
+1529,FOR_Capri_74,1973,1973 Ford Capri,no,no,no,yes,manual,900,Verified by hand
+1532,HEN_VenomGT_12,2012,2012 Hennessey Venom GT,no,yes,no,yes,manual,720,Verified by hand
+1535,LEX_GS350_13,2013,2013 Lexus GS 350,yes,yes,yes,no,atm,900,Verified by hand
+1536,REN_AlpineA110_73,1973,1973 Alpine A110,no,no,no,yes,manual,900,Verified by hand
+1539,POR_911GT2_12,2012,2012 Porsche 911 GT2 RS,yes,yes,yes,yes,manual,720,Verified by hand
+1542,POR_Cayenne_12,2012,2012 Porsche Cayenne,yes,yes,yes,optional,mixed,1073,Verified by hand
+1549,ALF_33Stradale_68,1968,1968 Alfa Romeo 33 Stradale,no,no,no,yes,manual,720,Verified by hand
+1555,FIA_8VSupersonic_53,1952,1952 Fiat 8V Supersonic,no,no,no,yes,manual,900,Verified by hand
+1558,LOT_Eleven_56,1956,1956 Lotus Eleven,no,no,no,yes,manual,630,Verified by hand
+1562,VIP_Viper_13,2013,2013 SRT Viper,yes,yes,yes,yes,manual,864,Verified by hand
+1564,CHE_Corvette_53,1953,1953 Chevrolet Corvette,no,no,no,no,at,900,Verified by hand
+1569,HYU_GenesisCoupe_13,2013,2013 Hyundai Genesis Coupe,yes,yes,yes,optional,mixed,900,Verified by hand
+1570,FER_F12_13,2012,2012 Ferrari F12berlinetta,yes,yes,yes,no,dct,720,Verified by hand
+1572,AMC_Rebel_70,1970,1970 AMC Rebel Machine,no,no,no,optional,mixed,900,Verified by hand
+1575,CHE_MonteCarlo_88,1988,1988 Chevrolet Monte Carlo SS,no,no,no,no,at,900,Verified by hand
+1578,FER_250GTLusso_63,1962,1962 Ferrari 250 GT Lusso,no,no,no,yes,manual,1260,Verified by hand
+1581,FOR_F100_56,1956,1956 Ford F-100,no,no,no,optional,mixed,900,Verified by hand
+1584,LAM_Jalpa_88,1988,1988 Lamborghini Jalpa,no,no,no,yes,manual,720,Verified by hand
+1585,LAN_Fulvia_68,1968,1968 Lancia Fulvia,no,no,no,yes,manual,900,Verified by hand
+1587,MAZ_Cosmo_72,1972,1972 Mazda Cosmo,no,no,no,yes,manual,900,Verified by hand
+1592,TOY_CelicaGT_74,1974,1974 Toyota Celica GT,no,no,no,optional,mixed,900,Verified by hand
+1607,AUD_RS4Avant_13,2013,2013 Audi RS4 Avant,yes,yes,yes,no,dct,900,Verified by hand
+1612,VW_Scirocco16v_88,1988,1988 Volkswagen Scirocco 16v,optional,no,no,yes,manual,900,Verified by hand
+1613,MRC_Coupe_49,1949,1949 Mercury Coupe,no,no,no,yes,manual,900,Verified by hand
+1620,DOD_Challenger392_12,2012,2012 Dodge Challenger SRT8 392,yes,yes,yes,optional,mixed,900,Verified by hand
+1625,LAM_Urus_12,2012,2012 Lamborghini Urus,yes,yes,yes,no,unknown,720,Verified by hand
+1626,CAD_Escalade_12,2012,2012 Cadillac Escalade,yes,yes,yes,no,atm,1080,Verified by hand
+1627,MER_G65AMG_13,2013,2013 Mercedes-Benz G65 AMG,yes,yes,yes,no,atm,900,Verified by hand
+1636,AST_Vanquish_13,2012,2013 Aston Martin Vanquish,yes,yes,yes,no,atm,936,Verified by hand
+1650,HON_CivicSi_86,1986,1986 Honda Civic Si,no,no,no,yes,manual,900,Verified by hand
+1651,ARI_Atom_13,2013,2013 Ariel Atom,no,optional,no,yes,manual,630,Verified by hand
+1652,CAT_R500_13,2013,2013 Caterham R500,no,no,no,yes,manual,684,Verified by hand
+1653,KTM_XBow_13,2013,2013 KTM X-Bow,no,no,no,yes,manual,792,Verified by hand
+1654,FOR_MustangGT500_13,2013,2013 Ford Shelby Mustang GT500,yes,yes,yes,yes,manual,900,Verified by hand
+1655,SUB_BRZ_13,2013,2013 Subaru BRZ,yes,yes,yes,optional,mixed,893,"VSC; ESC standard; ABS, VSC+TCS std verified (Subaru spec sheet); Steering 2.48 turns l-t-l"
+1658,MER_A45AMG_13,2013,2013 Mercedes-Benz A45 AMG,yes,yes,yes,no,dct,900,Verified by hand
+1661,LAN_DeltaS4_86,1986,1986 Lancia Delta S4,no,no,no,yes,manual,900,Verified by hand
+1662,MIN_CooperS_65,1965,1965 Morris Mini Cooper S,no,no,no,yes,manual,900,Verified by hand
+1666,FIA_AbarthPuntoSS_13,2013,2013 Abarth Punto SuperSport,yes,yes,yes,optional,mixed,900,Verified by hand
+1667,MCL_P1_13,2013,2013 McLaren P1,yes,yes,yes,no,dct,792,Verified by hand
+1668,FOR_MustangBoss302_69,1969,1969 Ford Mustang Boss 302,no,no,no,yes,manual,900,Verified by hand
+1674,PG_BoxTruck_14,2013,2014 PG Box Truck,optional,optional,no,no,unknown,900,Verified by hand
+2002,NIS_GTR_12,2012,2012 Nissan GT-R,yes,yes,yes,no,dct,864,Verified by hand
+2003,MIN_JCWGP_13,2012,2013 Mini John Cooper Works GP,yes,yes,yes,yes,manual,900,Verified by hand
+2004,MAZ_MX5_13,2013,2013 Mazda MX-5,yes,yes,yes,optional,mixed,900,Verified by hand
+2005,HON_S2000CR_09,2009,2009 Honda S2000 CR,yes,yes,yes,yes,manual,900,Verified by hand
+2006,CHE_CorvetteZR1_95,1995,1995 Chevrolet Corvette ZR-1,yes,yes,no,yes,manual,900,Verified by hand
+2007,TOY_GT86_13,2013,2013 Toyota GT86,yes,yes,yes,optional,mixed,893,"VSC; ESC standard; Assists per BRZ twin; not separately verified for GT86; Steering from BRZ spec sheet (2.48 turns, same GT86/BRZ platform)"
+2008,AUD_S4_13,2013,2013 Audi S4,yes,yes,yes,optional,mixed,900,Verified by hand
+2010,AUD_R8Plus_13,2013,2013 Audi R8 Plus,yes,yes,yes,no,dct,720,Verified by hand
+2011,FOR_FiestaST_14,2014,2014 Ford Fiesta ST,yes,yes,yes,yes,manual,900,Verified by hand
+2016,CHE_CorvetteStingray_14,2014,2014 Chevrolet Corvette Stingray,yes,yes,yes,optional,mixed,900,Verified by hand
+2017,FIA_595SS_68,1968,1968 Fiat Abarth 595 SS,no,no,no,yes,manual,900,Verified by hand
+2018,BMW_M6_13,2013,2013 BMW M6,yes,yes,yes,optional,mixed,900,Verified by hand
+2019,FOR_FocusRS_03,2003,2003 Ford Focus RS,yes,no,no,yes,manual,900,Verified by hand
+2021,MER_E63AMG_13,2013,2013 Mercedes-Benz E63 AMG,yes,yes,yes,no,amt,900,Verified by hand
+2022,REN_ClioRS_13,2013,2013 Renault Clio RS,yes,yes,yes,no,dct,900,Verified by hand
+2034,FER_LaFerrari_13,2013,2013 Ferrari LaFerrari,yes,yes,yes,no,dct,720,Verified by hand
+2038,ALF_4C_14,2014,2014 Alfa Romeo 4C,yes,yes,yes,no,dct,900,Verified by hand
+2041,BEN_ContinentalGTS_13,2013,2013 Bentley Continental GT Speed,yes,yes,yes,no,atm,972,Verified by hand
+2042,LAM_Veneno_13,2013,2013 Lamborghini Veneno,yes,yes,yes,no,amt,720,Verified by hand
+2045,ULT_GTR720_12,2012,2012 Ultima GTR720,no,no,no,yes,manual,864,Verified by hand
+2049,JEE_WillysMB_45,1945,1945 Willys MB,no,no,no,yes,manual,1260,Verified by hand
+2101,TES_ModelS_14,2014,2014 Tesla Model S,yes,yes,yes,no,ev,900,Verified by hand
+2105,DON_D8GTO_13,2013,2013 Donkervoort D8 GTO,no,no,no,yes,manual,720,Verified by hand
+2106,FOR_ShelbyRaptor_13,2013,2013 Ford F-150 SVT Raptor (Shelby),yes,yes,yes,no,atm,1170,Verified by hand
+2108,JEE_Cherokee_14,2014,2014 Jeep Cherokee,yes,yes,yes,no,atm,922,Verified by hand
+2110,LR_RangeRover_14,2014,2014 Land Rover Range Rover,yes,yes,yes,no,atm,1091,Verified by hand
+2119,HON_CRXMugen_84,1984,1984 Honda CR-X Mugen,no,no,no,yes,manual,900,Verified by hand
+2134,CHE_SS_14,2014,2014 Chevrolet SS,yes,yes,yes,no,atm,900,Verified by hand
+2135,LR_Defender_97,1997,1997 Land Rover Defender,optional,optional,no,yes,manual,1215,Verified by hand
+2136,NIS_Juke_14,2014,2014 Nissan Juke,yes,yes,yes,optional,mixed,900,Verified by hand
+2140,SUB_BRAT_81,1980,1981 Subaru BRAT,no,no,no,yes,manual,1305,Verified by hand
+2143,CHE_7_SST_13,2013,2013 Chevrolet 7 SST (unidentified),yes,optional,yes,optional,mixed,900,Verified by hand
+2144,DOD_RamRunner_13,2013,2013 Dodge Ram 1500 Runner,yes,yes,yes,no,atm,1116,Verified by hand
+2145,FOR_RangerT6_14,2014,2014 Ford Ranger T6,yes,optional,yes,optional,mixed,1260,Verified by hand
+2146,LOC_RallyFighter_14,2014,2014 Local Motors Rally Fighter,yes,no,no,no,atm,1080,Verified by hand
+2147,MG_Metro6R4_86,1986,1986 MG Metro 6R4,no,no,no,yes,manual,900,Verified by hand
+2148,MIN_XRaidCountryman_13,2014,2013 Mini ALL4 Racing X-Raid Countryman,no,optional,yes,no,seq,900,Verified by hand
+2149,REN_ClioWilliams_93,1993,1993 Renault Clio Williams,no,no,no,yes,manual,900,Verified by hand
+2151,VW_Type2_63,1963,1963 Volkswagen Type 2,no,no,no,yes,manual,1008,Verified by hand
+2154,BMW_M4_14,2014,2014 BMW M4,yes,yes,yes,optional,mixed,900,Verified by hand
+2155,FOR_MustangGT_15,2015,2015 Ford Mustang GT,yes,yes,yes,optional,mixed,900,Verified by hand
+2156,BMW_M2_15,2014,2015 BMW M2,yes,yes,yes,optional,mixed,900,Verified by hand
+2158,FOR_Fiesta_81,1981,1981 Ford Fiesta,no,no,no,yes,manual,900,Verified by hand
+2161,ALF_GiuliaTZ2_65,1965,1965 Alfa Romeo Giulia TZ2,no,no,no,yes,manual,900,Verified by hand
+2162,JAG_FTypeCoupe_15,2015,2015 Jaguar F-Type Coupe,yes,yes,yes,no,atm,842,Verified by hand
+2164,LAM_Huracan_15,2014,2015 Lamborghini Huracan LP610-4,yes,yes,yes,no,dct,720,Verified by hand
+2165,Lot_EvoraS_11,2011,2011 Lotus Evora S,yes,yes,yes,optional,mixed,900,Verified by hand
+2168,SUB_WRXSTI_15,2015,2015 Subaru WRX STI,yes,yes,yes,yes,manual,900,Verified by hand
+2171,MAZ_MX5_05,2005,2005 Mazda MX-5,yes,optional,no,optional,mixed,900,Verified by hand
+2175,LEX_RCF_15,2015,2015 Lexus RC F,yes,yes,yes,no,atm,900,Verified by hand
+2176,LAM_LM002_86,1986,1986 Lamborghini LM002,no,no,no,yes,manual,1350,Verified by hand
+2177,CHE_CorvetteZ06_15,2015,2015 Chevrolet Corvette Z06,yes,yes,yes,optional,mixed,911,"ESC standard; corvsport.com: 2015 Corvette 2.53 turns lock-to-lock (Stingray and Z06 not separated); 7MT std, 8AT option"
+2178,AUD_RS4_01,2001,2001 Audi RS4,yes,yes,yes,yes,manual,900,Verified by hand
+2179,AUD_S1_15,2015,2015 Audi S1,yes,yes,yes,yes,manual,900,Verified by hand
+2180,AUD_RS6_15,2015,2015 Audi RS6 Avant,yes,yes,yes,no,atm,900,Verified by hand
+2181,AST_V12VantageS_14,2013,2013 Aston Martin V12 Vantage S,yes,yes,yes,no,amt,936,Verified by hand
+2182,AUD_TTS_15,2015,2015 Audi TTS,yes,yes,yes,no,dct,900,Verified by hand
+2183,CHE_CamaroZ28_15,2015,2015 Chevrolet Camaro Z/28,yes,yes,yes,yes,manual,900,Verified by hand
+2184,FER_458Speciale_15,2015,2015 Ferrari 458 Speciale,yes,yes,yes,no,dct,720,Verified by hand
+2185,JAG_XFRS_15,2015,2015 Jaguar XFR-S,yes,yes,yes,no,atm,900,Verified by hand
+2186,FER_500TR_54,1953,1953 Ferrari 500 TR,no,no,no,yes,manual,900,Verified by hand
+2187,FOR_Bronco_75,1975,1975 Ford Bronco,no,no,no,optional,mixed,1908,Verified by hand
+2189,MCL_650S_15,2015,2015 McLaren 650S,yes,yes,yes,no,dct,720,Verified by hand
+2206,JEE_Wagoneer_91,1991,1991 Jeep Grand Wagoneer,optional,no,no,no,at,1080,Verified by hand
+2213,NIS_IDxNISMO_15,2015,2015 Nissan IDx NISMO,optional,optional,yes,no,unknown,900,Verified by hand
+2252,FOR_FiestaST_H2_14,2014,2014 Ford Fiesta ST,yes,yes,yes,yes,manual,900,Verified by hand
+2253,DOD_Challenger392_H2_12,2012,2012 Dodge Challenger SRT8 392,yes,yes,yes,optional,mixed,900,Verified by hand
+2254,MER_A45AMG_H2_13,2013,2013 Mercedes-Benz A45 AMG,yes,yes,yes,no,dct,900,Verified by hand
+2255,MAZ_Miata_90,1990,1990 Mazda MX-5 Miata,no,no,no,optional,mixed,900,Verified by hand
+2256,MAZ_Miata_10,2010,2010 Mazda MX-5 Miata,yes,optional,optional,optional,mixed,900,Verified by hand
+2257,VW_GlobalRallyCross_Bug_15,2014,2015 Volkswagen Beetle Global Rallycross,no,no,no,no,seq,540,Verified by hand
+2258,VW_Baja_70,1970,1970 Volkswagen Baja Bug,no,no,no,yes,manual,900,Verified by hand
+2259,VOL_S60Polestar_15,2015,2015 Volvo S60 Polestar,yes,yes,yes,no,atm,900,Verified by hand
+2261,NIS_GShock_370Z_10,2010,2010 Nissan 370Z,yes,yes,yes,optional,mixed,900,Verified by hand
+2267,MAZ_MX5_16,2016,2016 Mazda MX-5,yes,yes,yes,optional,mixed,900,Verified by hand
+2276,DOD_ChargerFast7_15,2015,2015 Dodge Charger SRT Hellcat,yes,yes,yes,optional,mixed,900,Verified by hand
+2277,JEE_WranglerFast7_13,2013,2013 Jeep Wrangler,yes,yes,yes,optional,mixed,1080,Verified by hand
+2278,PLY_RoadRunnerFast7_70,1970,1970 Plymouth Road Runner,no,no,no,optional,mixed,900,Verified by hand
+2279,DOD_ChallengerFast7_15,2015,2015 Dodge Challenger,yes,yes,yes,optional,mixed,900,Verified by hand
+2280,DOD_ChargerFast7_70,1970,1970 Dodge Charger,no,no,no,optional,mixed,900,Verified by hand
+2281,PLY_CudaFast7_70,1970,1970 Plymouth Barracuda (Cuda),no,no,no,optional,mixed,900,Verified by hand
+2287,TOY_SupraFast7_98,1998,1998 Toyota Supra,yes,optional,no,optional,mixed,1080,Verified by hand
+2288,MAS_GhibliFast7_14,2014,2014 Maserati Ghibli,yes,yes,yes,no,atm,900,Verified by hand
+2289,POR_911TurboS_14,2014,2014 Porsche 911 Turbo S,yes,yes,yes,no,dct,720,Verified by hand
+2290,POR_918Spyder_14,2014,2014 Porsche 918 Spyder,yes,yes,yes,no,dct,810,Verified by hand
+2293,POR_CaymanGTS_15,2015,2015 Porsche Cayman GTS,yes,yes,yes,optional,mixed,900,Verified by hand
+2295,POR_MecanTurbo_15,2015,2015 Porsche Macan Turbo,yes,yes,yes,no,dct,900,Verified by hand
+2297,POR_911GT3RS_12,2012,2012 Porsche 911 GT3 RS,yes,yes,yes,yes,manual,720,Verified by hand
+2380,MIT_EclipseFF_95,1995,1995 Mitsubishi Eclipse,optional,no,no,optional,mixed,900,Verified by hand
+2381,TOY_SupraFF_95,1995,1995 Toyota Supra,yes,optional,no,optional,mixed,900,Verified by hand
+2382,HON_S2000FF_01,2001,2001 Honda S2000,yes,no,no,yes,manual,864,"no ESC/VSA on AP1 S2000; Wikipedia: AP1 6MT only, 2.4 turns lock-to-lock; stability control only added 2006 MY (implies none on 2001)"
+2384,NIS_SkylineFF_99,1999,1999 Nissan Skyline GT-R (R34),yes,no,no,yes,manual,900,Verified by hand
+2387,CHE_CorvetteGSFF_63,1963,1963 Chevrolet Corvette Grand Sport,no,no,no,yes,manual,1224,Verified by hand
+2388,DOD_ChargerDaytonaFF_69,1969,1969 Dodge Charger Daytona,no,no,no,optional,mixed,900,Verified by hand
+2389,FOR_EscortRS1600FF_70,1970,1970 Ford Escort RS1600,no,no,no,yes,manual,900,Verified by hand
+2391,NIS_FairladyZFF_02,2002,2002 Nissan Fairlady Z (Z33),yes,yes,optional,optional,mixed,900,Verified by hand
+2393,ARM_GurkhaFF_14,2014,2014 Gurkha Armored Vehicle,yes,no,no,no,atm,1440,Verified by hand
+2396,DOD_ChargerFF_68,1968,1968 Dodge Charger,no,no,no,optional,mixed,900,Verified by hand
+2408,FOR_SVTRaptorCheetos_11,2011,2011 Ford F-150 SVT Raptor,yes,yes,yes,no,atm,1170,Verified by hand
+2455,AST_DBSTF_08,2008,2008 Aston Martin DBS,yes,yes,yes,yes,manual,1080,Verified by hand
+2456,AUD_R8PlusTF_13,2013,2013 Audi R8 V10 Plus,yes,yes,yes,no,dct,720,Verified by hand
+2457,AUD_RS7TF_13,2013,2013 Audi RS7,yes,yes,yes,no,atm,900,Verified by hand
+2458,BMW_M5TF_12,2012,2012 BMW M5,yes,yes,yes,no,dct,900,Verified by hand
+2460,HON_NSXRTF_05,2005,2005 Honda NSX-R,yes,no,no,yes,manual,1166,Verified by hand
+2461,LAM_HuracanTF_15,2014,2015 Lamborghini Huracan LP610-4,yes,yes,yes,no,dct,720,Verified by hand
+2462,MCL_P1TF_13,2013,2013 McLaren P1,yes,yes,yes,no,dct,792,Verified by hand
+2463,NIS_FairladyZTF_03,2003,2003 Nissan Fairlady Z (350Z),yes,optional,optional,optional,mixed,900,Verified by hand
+2464,VIP_ViperTF_13,2013,2013 Dodge SRT Viper,yes,yes,yes,yes,manual,864,Verified by hand
+2466,NIS_JukePringles_14,2014,2014 Nissan Juke,yes,yes,yes,optional,mixed,900,Verified by hand
+2501,FER_F142TF_10,2009,2010 Ferrari 458 Italia,yes,yes,yes,no,dct,720,Verified by hand
